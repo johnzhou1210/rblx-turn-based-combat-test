@@ -6,10 +6,13 @@ Features:
 - Status effects
 - Buffs and Debuffs
 - Critical hits and misses
-- Splash damage and AOE
+- Splash and aoe damage/healing
+- Status effect removal
+- 3 currently implemented status effects: poison, burning, plague
 - Character skills
 - Option to flee
 - Command-based gameplay
+- Damage types and elements
 
 Some images:
 
