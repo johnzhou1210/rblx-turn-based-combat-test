@@ -10,7 +10,7 @@ Features:
 - Splash and aoe damage/healing
 - Status effect removal
 - 3 currently implemented status effects: poison, burning, plague
-- Character skills
+- Character skills, mana/MP
 - Option to flee
 - Command-based gameplay
 - Damage types and elements
