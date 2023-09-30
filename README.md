@@ -14,8 +14,10 @@ Features:
 - Option to flee
 - Command-based gameplay
 - Damage types and elements
+- Turn start confirmation
+- Auto battle
 
-Some images:
+Here are some images:
 
 ![Alt text](/img1.png?raw=true "Title")
 ![Alt text](/img2.png?raw=true "Title")
