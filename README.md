@@ -1,5 +1,5 @@
 # rblx-turn-based-combat-test
-A personal game project that I have been working on in the past on ROBLOX. Used rblx-to-rojo to upload to GitHub.
+A personal game project that I have been working on in ROBLOX. Used rblx-to-rojo to upload to GitHub.
 
 Features:
 - Party system
