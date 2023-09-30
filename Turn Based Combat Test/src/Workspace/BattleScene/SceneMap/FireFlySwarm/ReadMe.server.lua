@@ -1,0 +1,13 @@
+-- This is a FireFly swarm that spawns illuminating fireflies and let them glow and fly around
+-- New flies spawn if a fly flies too far from center
+-- The center part will be invisible when the game run. It's only shown in edit mode so you can work with this model easier.
+
+-- Configurations:
+-- Brightness: Set the brightness of the lights the fireflies have
+-- Color: The color of the firefly
+-- GlowSpeed: The amount of time spent in seconds to build or drop the strength of the light
+-- GlowTime: The amount of average time the light is active
+-- NowGlotTime: The amount of average time the light is inactive
+-- GlowRange: The range of the light
+-- FlyRange: The range a fly can fly away from the center 
+-- Amount: The amount of flies this spawner will keep having
