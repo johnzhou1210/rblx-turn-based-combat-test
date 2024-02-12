@@ -1,5 +1,6 @@
 # rblx-turn-based-combat-test
 A personal game project (_Aeternum Rift_) that I have been working on in ROBLOX. Used rblx-to-rojo to upload current state of project to GitHub.
+https://www.roblox.com/games/6357293380/Aeternum-Rift-Prototype
 
 Features:
 - Party system
